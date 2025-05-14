@@ -2,7 +2,7 @@
 
 > A **responsive**, **accessibility-first**, **SEO-friendly** vertical tab navigation component built with **HTML5**, **CSS3**, and **vanilla JavaScript**—perfect for **SaaS landing pages**, **product tours**, **dashboard UIs**, and **marketing websites**.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://YourUsername.github.io/saas-tabs/)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://github.com/AyubAnsary/auto-switch-saas-tabs/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 [![NPM Version](https://img.shields.io/badge/npm-v1.0.0-orange)](https://www.npmjs.com/package/saas-tabs)
 
@@ -107,5 +107,5 @@ _Target keywords & phrases for search ranking:_
 
 ### 1. Clone the repo  
 ```bash
-git clone https://github.com/YourUsername/saas-tabs.git
+git clone https://github.com/AyubAnsary/auto-switch-saas-tabs.git
 cd saas-tabs
